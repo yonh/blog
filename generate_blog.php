@@ -53,7 +53,6 @@ function generateStaticSite($contentDirectory, $templateDirectory, $outputDirect
     echo 'Static site generation completed.';
 }
 
-// Sample call to the static site generator function
 // generateStaticSite('blog_content', 'templates', 'output');
 
 ?>
